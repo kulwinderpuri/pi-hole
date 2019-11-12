@@ -1,3 +1,4 @@
+.youtube.com
 # [General]
  lb.usemaxserver.de
  tracking.klickthru.com
