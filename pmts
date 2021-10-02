@@ -1,7 +1,6 @@
-^r[0-9]+-+sn-+[a-z0-9]+-+[a-z0-9]+\.googlevideo\.com$
-^r[0-9]+-+sn-+[a-z0-9]+\.googlevideo\.com$
-(^|\.)[a-z0-9]+indiantube[a-z0-9_.-]
-(^|\.)[a-z0-9]+tube[a-z0-9_.-]
-(^|\.)tube[a-z0-9_.-]
-tube$
-(\.|^)whatsapp\.com$
+www.googlevideo.com
+googlevideo.com
+web.whatsapp.com
+www.web.whatsapp.com
+youtube.com
+www.youtube.com
