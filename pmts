@@ -4,14 +4,4 @@
 (^|\.)[a-z0-9]+tube[a-z0-9_.-]
 (^|\.)tube[a-z0-9_.-]
 tube$
-^(.+[_.-])?dnsdelegation\.io$
-(\.|^)goto-rtc\.com$
-(\.|^)getgoservices\.net$
-(\.|^)getgoservices\.com$
-(\.|^)getgocdn\.com$
-(\.|^)getgo\.com$
-(\.|^)expertcity\.com$
-(\.|^)cloudfront\.net$
-(\.|^)filestackapi\.com$
-(\.|^)logmein\.com$
 (\.|^)whatsapp\.com$
